@@ -1,6 +1,17 @@
 # Withinstar.com
+<p align="center">
+  <img src="./images/image06.png">
+</p>
 
 ## 소개
+<p align="center">
+  <img src="./images/image02.png" width="48%">
+  <img src="./images/image01.png" width="48%">
+  <br>
+  <img src="./images/image03.png" width="48%">
+  <img src="./images/image04.png" width="48%">
+</p>
+
 [**Withinstar.com**](www.withinstar.com)은 사용자들이 **Instagram**을 통해 비밀스럽게 관심을 표현하고 매칭을 이루도록 돕는 웹 애플리케이션입니다.
 Flask를 기반으로 개발되었으며, **MongoDB**를 활용한 데이터 관리와 **암호화 시스템**으로 사용자 정보를 안전하게 보호합니다.
 
@@ -35,28 +46,23 @@ Flask를 기반으로 개발되었으며, **MongoDB**를 활용한 데이터 관
 - **Security**: Python Cryptography Fernet
 - **Other Integrations**: Google Analytics, Google AdSense, Gmail SMTP
 
+  ![image05](./images/image05.png)
+
 ---
 
-## 설치 및 실행 방법
-
-1. **의존성 설치**
-   ```bash
-   pip install -r requirements.txt
-
-2. **환경 변수 설정**
-   프로젝트 루트 디렉토리에 `.env` 파일을 생성하고 다음 내용을 추가하세요:
-   ```plaintext
-   MONGO_URI=your_mongo_uri
-   SECRET_KEY=your_secret_key
-   EMAIL_PASSWORD=your_email_password
-3. **애플리케이션 실행**
-   ```bash
-   python app.py
-
-4. **브라우저에서 확인**  
-   아래 링크에서 애플리케이션을 확인할 수 있습니다:
-   ```plaintext
-   http://127.0.0.1:5000
+## 관련 자료
+![1](./images/1.png)
+![2](./images/2.png)
+![3](./images/3.png)
+![4](./images/4.png)
+![5](./images/5.png)
+![6](./images/6.png)
+![7](./images/7.png)
+![8](./images/8.png)
+![9](./images/9.png)
+![10](./images/10.png)
+![11](./images/11.png)
+![12](./images/12.png)
 ---
 
 ## 프로젝트 구조
