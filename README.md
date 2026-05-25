@@ -12,7 +12,7 @@
   <img src="./images/image04.png" width="48%">
 </p>
 
-[**Withinstar.com**](www.withinstar.com)은 사용자들이 **Instagram**을 통해 비밀스럽게 관심을 표현하고 매칭을 이루도록 돕는 웹 애플리케이션입니다.
+[**Withinstar.com**](https://within-7a819ff28de9.herokuapp.com/)은 사용자들이 **Instagram**을 통해 비밀스럽게 관심을 표현하고 매칭을 이루도록 돕는 웹 애플리케이션입니다.
 Flask를 기반으로 개발되었으며, **MongoDB**를 활용한 데이터 관리와 **암호화 시스템**으로 사용자 정보를 안전하게 보호합니다.
 
 ---
